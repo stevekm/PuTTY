@@ -1,11 +1,7 @@
-# PuTTY
-PuTTY downloads
+Desktop programs that users often need.
 
-version 0.68
+Uploaded here for easier access 
 
-downloaded from here:
-http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+.app files are for OS X / macOS
 
-If you just need PuTTY, download `putty.zip` (click [here](https://github.com/stevekm/PuTTY/blob/08df5f8b7c44e750d57fb6a3ddf164e795934971/putty.zip?raw=true)).
-
-If you need an ssh key as well, download `puttygen.exe` (click [here](https://github.com/stevekm/PuTTY/blob/08df5f8b7c44e750d57fb6a3ddf164e795934971/puttygen.exe?raw=true)).
+.exe, .msi files are for Windows
